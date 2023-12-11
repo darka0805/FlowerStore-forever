@@ -1,6 +1,7 @@
-package ucu.edu.apps.flowerstore;
+
 import org.junit.jupiter.api.Test;
 import ucu.edu.apps.flowerstore.delivery.PostDeliveryStrategy;
+import ucu.edu.apps.flowerstore.Item;
 import ucu.edu.apps.flowerstore.delivery.DHLDeliveryStrategy;
 import ucu.edu.apps.flowerstore.delivery.Delivery;
 

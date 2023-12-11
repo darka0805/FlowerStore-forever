@@ -1,4 +1,4 @@
-package ucu.edu.apps.flowerstore;
+
 import org.junit.jupiter.api.Test;
 
 import ucu.edu.apps.flowerstore.payment.CreditCardPaymentStrategy;
